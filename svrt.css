@@ -550,9 +550,9 @@ text-transform: uppercase;
 }
 .about img{
   position: relative;
-  bottom: -120px;
-  margin-top: -120px;
-  max-width: 100%;
+  bottom: -38px;
+  margin-top: -162px;
+  max-width: 117%;
 }
 @media(max-width:767){
   .about img{
